@@ -3,7 +3,7 @@
 
 Ссылка Nginx образа: https://hub.docker.com/layers/pavelsdv/testrep/projectcompose_nginx/images/sha256-d74f69f3275c72273c6b3e782b87c026c3208f6dd66e49da6c2cb11bf717fc90?context=repo
 
-Команда для запуска проекта из директории с файлом docker-compose.yml: sudo docker-compose -f docker-compose.yml up -d --build
+Команда для запуска проекта: sudo docker-compose -f docker-compose.yml up -d --build
 
 Админ-панель по адресу: http://127.0.0.1:1337/admin/
 
