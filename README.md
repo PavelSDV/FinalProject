@@ -11,7 +11,7 @@ https://hub.docker.com/layers/pavelsdv/testrep/projectcompose_nginx/images/sha25
 
 Для входа в админ-панель создать суперпользователя: sudo docker-compose run web python3 manage.py createsuperuser
 
-------------------
+-------------------
 Задание.
 
 Задача
